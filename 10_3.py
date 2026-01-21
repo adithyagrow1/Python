@@ -2,6 +2,7 @@ text = input("Enter text: ")
 
 has_digit = False
 
+
 for char in text:
     if char.isdigit():
         has_digit = True
