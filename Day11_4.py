@@ -8,7 +8,10 @@ special_ok = any(c in "@#$%&!" for c in password)
 
 if length_ok and upper_ok and lower_ok and digit_ok and special_ok:
     print("Strong password")
+
 elif length_ok and digit_ok and (upper_ok or lower_ok):
     print("Medium password")
+
+    
 else:
     print("Weak password")
