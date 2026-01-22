@@ -13,6 +13,6 @@ elif "name" in msg:
 elif "bye" in msg:
     print("Goodbye! Have a great day!")
 
-    
+
 else:
     print("Sorry, I didn't understand that.")
