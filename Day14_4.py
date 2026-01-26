@@ -6,5 +6,5 @@ if any(bad in text for bad in bad_words):
 
     print("Warning: Your message contains inappropriate words.")
 else:
-    
+
     print("Message is clean.")
