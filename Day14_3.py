@@ -8,6 +8,6 @@ elif units <= 200:
 
 elif units <= 300:
     print("Bill Amount: ₹", units * 7)
-    
+
 else:
     print("Bill Amount: ₹", units * 10)
