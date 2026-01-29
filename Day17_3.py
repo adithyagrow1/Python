@@ -15,3 +15,4 @@ if rate == 0:
 else:
     total = distance * rate
     print("Ticket Price: ₹", total)
+    
