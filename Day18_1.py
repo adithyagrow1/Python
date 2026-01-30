@@ -9,8 +9,6 @@ while True:
 
     choice = input("Enter your choice: ")
 
-
-
     # Add Contact
     if choice == "1":
         name = input("Enter name: ").title()
@@ -22,8 +20,6 @@ while True:
         else:
             print("Invalid phone number!")
 
-
-
     # Search Contact
     elif choice == "2":
         search = input("Enter name to search: ").title()
@@ -33,8 +29,6 @@ while True:
             print("Phone:", contacts[search])
         else:
             print("Contact not found.")
-
-
 
     # Validate Number
     elif choice == "3":
@@ -49,13 +43,9 @@ while True:
         else:
             print("Valid phone number!")
 
-
-
     elif choice == "4":
         print("Goodbye!")
         break
-
-
 
     else:
         print("Invalid choice. Try again.")
