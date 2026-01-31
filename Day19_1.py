@@ -24,6 +24,7 @@ while True:
                 attendance[name] = status
                 print(name, "marked as", status)
 
+
     # Check Attendance
     elif choice == "2":
         name = input("Enter name to check: ").title()
