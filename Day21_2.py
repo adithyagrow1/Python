@@ -18,5 +18,6 @@ elif word.endswith("s") and word[:-1] in dictionary:
 elif len(word) < 3:
     print("Word too short to search.")
 
+
 else:
     print("Meaning not found in dictionary.")
