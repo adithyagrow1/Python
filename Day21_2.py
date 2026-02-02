@@ -6,6 +6,7 @@ dictionary = {
     "debug": "Finding and fixing errors in code."
 }
 
+
 word = input("Enter a word to find meaning: ").lower()
 
 if word in dictionary:
