@@ -1,6 +1,7 @@
 
 
 goal = input("What is your fitness goal? ").lower()
+
 if "weight loss" in goal or "lose weight" in goal:
     print("Plan: Cardio + calorie deficit + daily steps target.")
 
@@ -13,6 +14,6 @@ elif "abs" in goal or "core" in goal:
 
 elif "fit" in goal or "healthy" in goal:
     print("Plan: Balanced routine with cardio + strength + stretching.")
-    
+
 else:
     print("Goal unclear. Please specify weight loss, muscle gain, or general fitness.")
