@@ -9,7 +9,10 @@ elif "broken" in query or "damaged" in query:
     print("→ Replacement Team: We will arrange a replacement soon.")
 elif "cancel" in query:
     print("→ Cancellation Team: Your order will be cancelled.")
+
+
 elif "help" in query or "support" in query:
     print("→ Support Team: How else can we assist you?")
+    
 else:
     print("→ Could not identify the issue. Please provide more details.")
