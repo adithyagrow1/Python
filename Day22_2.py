@@ -21,5 +21,6 @@ elif "fit" in goal or "healthy" in goal:
     print("Plan: Balanced routine with cardio + strength + stretching.")
 
 
+
 else:
     print("Goal unclear. Please specify weight loss, muscle gain, or general fitness.")
