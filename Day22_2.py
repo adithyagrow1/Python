@@ -21,6 +21,7 @@ elif "abs" in goal or "core" in goal:
 
 
 
+
 elif "fit" in goal or "healthy" in goal:
     print("Plan: Balanced routine with cardio + strength + stretching.")
 
