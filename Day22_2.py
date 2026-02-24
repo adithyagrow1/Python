@@ -13,6 +13,7 @@ if "weight loss" in goal or "lose weight" in goal:
 
 
 
+
 elif "muscle" in goal or "gain" in goal or "bulk" in goal:
     print("Plan: Strength training + high protein diet.")
 
