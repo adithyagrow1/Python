@@ -20,6 +20,7 @@ elif "muscle" in goal or "gain" in goal or "bulk" in goal:
 
 
 
+
 elif "abs" in goal or "core" in goal:
     print("Plan: Core workout + calorie control + HIIT.")
 
