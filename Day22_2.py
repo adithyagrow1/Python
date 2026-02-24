@@ -1,3 +1,4 @@
+
 goal = input("What is your fitness goal? ").lower()
 
 
