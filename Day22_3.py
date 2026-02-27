@@ -25,6 +25,7 @@ elif any(word in email for word in ["offer", "sale", "discount", "deal"]):
 
 
 
+
 elif any(word in email for word in ["lottery", "free money", "click link", "urgent"]):
     print("Category: 🚨 Spam Email")
 
