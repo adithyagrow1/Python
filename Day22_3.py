@@ -7,6 +7,7 @@ if any(word in email for word in ["meeting", "project", "deadline", "team"]):
 
 elif any(word in email for word in ["mom", "dad", "friend", "family"]):
     print("Category: ❤️ Personal Email")
+
 elif any(word in email for word in ["offer", "sale", "discount", "deal"]):
     print("Category: 🛍 Promotion Email")
 elif any(word in email for word in ["lottery", "free money", "click link", "urgent"]):
