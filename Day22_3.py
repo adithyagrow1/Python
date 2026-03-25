@@ -31,6 +31,7 @@ elif any(word in email for word in ["mom", "dad", "friend", "family"]):
 
 
 
+
 elif any(word in email for word in ["offer", "sale", "discount", "deal"]):
     print("Category: 🛍 Promotion Email")
 
