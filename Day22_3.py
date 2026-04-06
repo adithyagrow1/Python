@@ -15,6 +15,7 @@ elif any(word in email for word in ["mom", "dad", "friend", "family"]):
     print("Category: ❤️ Personal Email")
 
 
+
 elif any(word in email for word in ["lottery", "free money", "click link", "urgent"]):
     print("Category: 🚨 Spam Email")
 
