@@ -6,7 +6,8 @@
 
 
 
-    email = input("Enter the email message: ").lower()
+email = input("Enter the email message: ").lower()
+
 
 
 
