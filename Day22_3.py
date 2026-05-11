@@ -53,6 +53,7 @@ elif any(word in email for word in ["mom", "dad", "friend", "family"]):
 
 
 
+
     print("Category: ❤️ Personal Email")
 
 
