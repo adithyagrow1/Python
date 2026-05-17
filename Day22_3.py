@@ -6,6 +6,7 @@ email = input("Enter the email message: ").lower()
 
 
 
+
 if any(word in email for word in ["meeting", "project", "deadline", "team"]):
     print("Category: 🧑‍💼 Work Email")
 
