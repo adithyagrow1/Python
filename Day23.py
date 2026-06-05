@@ -1,6 +1,7 @@
 
 
 #Area of a square
+
 side = float(input("enter the length of the side:"))
 print("The area of the square is:",side**2)
 
