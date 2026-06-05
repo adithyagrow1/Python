@@ -2,6 +2,7 @@
 #Area of a square
 side = float(input("enter the length of the side:"))
 print("The area of the square is:",side**2)
+
 #to get the average of two numbers
 a = int(input("enter first number:"))
 b = int(input("enter second number:"))
