@@ -17,6 +17,7 @@ print(str1.capitalize())
 #replace
 str2 = "i am adithya"
 print(str2.replace("a","@"))
+
 #find
 str3 = "i am adithya"
 print(str3.find("a"))
