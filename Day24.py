@@ -1,6 +1,7 @@
 #outputs the length of the word
 name = input("enter your first name:")
 print(len(name))
+
 #find the occurrence of "$" in a string
 str1 = "a$d$ithya$"
 print(str4.count("$"))
