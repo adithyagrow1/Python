@@ -8,6 +8,7 @@ print(len(name))
 str1 = "a$d$ithya$"
 print(str4.count("$"))
 
+
 #endswith("")
 str0 = "i am adithya"
 print(str0.endswith("ya"))
