@@ -18,6 +18,7 @@ print(str0.endswith("ya"))
 str1 = "i am adithya"
 print(str1.capitalize())
 
+
 #replace
 str2 = "i am adithya"
 print(str2.replace("a","@"))
