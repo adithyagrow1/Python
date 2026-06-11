@@ -18,6 +18,7 @@ print(str0.endswith("ya"))
 
 
 #capitalize
+
 str1 = "i am adithya"
 print(str1.capitalize())
 
